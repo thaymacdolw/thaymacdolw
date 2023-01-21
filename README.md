@@ -19,7 +19,7 @@
 
 ### :woman_technologist: About Me :
 I am a Front-End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Brazil/Portugal.
-- :telescope: I’m currently looking for a job in on Front-end projects for building web applications.
+- :telescope: I’m currently looking for a job in Front-end projects for building web applications.
 
 - :seedling: Learning new tools and reaching tech articles.
 
