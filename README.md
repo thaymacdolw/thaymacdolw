@@ -50,6 +50,7 @@ I am a Front-End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 
 - <img src="https://github.com/lipis/flag-icons/blob/main/flags/4x3/de.svg" width="30" height="20"> German: A1.
 
+- <img src="https://github.com/lipis/flag-icons/blob/main/flags/4x3/it.svg" width="30" height="20"> Italian: A1.
 
 
 
