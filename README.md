@@ -40,7 +40,15 @@ I am a Front-End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 
 ### 🌍 : Other Languages:
 
-<img src="https://icons8.com/icon/zHmH8HpOmM90/brazil"> Portuguese: Native Speaker.
+- <img src="https://github.com/lipis/flag-icons/blob/main/flags/4x3/br.svg" width="30" height="20"> Portuguese: Native Speaker.
+
+- <img src="https://github.com/lipis/flag-icons/blob/main/flags/4x3/us.svg" width="30" height="20"> English: C1.
+
+- <img src="https://github.com/lipis/flag-icons/blob/main/flags/4x3/es.svg" width="30" height="20"> Spanish: B2.
+
+- <img src="https://github.com/lipis/flag-icons/blob/main/flags/4x3/de.svg" width="30" height="20"> German: A1.
+
+- <img src="https://github.com/lipis/flag-icons/blob/main/flags/4x3/it.svg" width="30" height="20"> Italian: A1.
 
 
 
@@ -58,4 +66,4 @@ I am a Front-End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
  
 
 
-![icons8-brazil-48](https://user-images.githubusercontent.com/113301551/213875123-55003de8-d46e-4c20-9f09-b3c1840cebe3.jpg)
+
