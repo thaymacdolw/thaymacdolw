@@ -40,7 +40,7 @@ I am a Front-End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 
 ---
 
-### 🌍 : Other Languages:
+### 🌍 Other Languages:
 
 - <img src="https://github.com/lipis/flag-icons/blob/main/flags/4x3/br.svg" width="30" height="20"> Portuguese: Native Speaker.
 
