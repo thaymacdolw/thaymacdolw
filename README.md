@@ -3,7 +3,10 @@
 - 😄 Pronouns: she/her.
 - ⚡ Fun fact: I'm also a gamer creator content in my free times.
 
-
+<p align="center">
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=thaymacdolw&show_icons=true&theme=radical"  style="display: inline-flex;"/>
+   <!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thaymacdolw&layout=compact&theme=radical" style="min-width:800px;display: inline-flex;"/> -->
+</p>
 
 <div style="display: inline_block"><br>
     <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
