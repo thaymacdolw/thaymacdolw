@@ -12,7 +12,7 @@
 ---
 
 ### :woman_technologist: About Me :
-I am a Front-End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Brazil/Portugal.
+I am a Front-End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Brazil/Portugal living in Germany.
 - :telescope: I’m currently looking for a intership in Front-end projects for building web applications.
 
 - :seedling: Learning new tools and reaching tech articles.
