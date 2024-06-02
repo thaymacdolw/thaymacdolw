@@ -44,7 +44,7 @@ I am a Front-End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 
 - <img src="https://github.com/lipis/flag-icons/blob/main/flags/4x3/es.svg" width="30" height="20"> Spanish: B2.
 
-- <img src="https://github.com/lipis/flag-icons/blob/main/flags/4x3/de.svg" width="30" height="20"> German: A2.
+- <img src="https://github.com/lipis/flag-icons/blob/main/flags/4x3/de.svg" width="30" height="20"> German: B1.
 
 
 
