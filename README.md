@@ -30,6 +30,8 @@ I am a Front-End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" title="Adobe Premiere" **alt="PR" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" title="Adobe Photoshop" **alt="PS" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" title= "Python" **alt="PS" width="40" height="40"/>
+    
 </div>
 
 ---
@@ -42,7 +44,7 @@ I am a Front-End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 
 - <img src="https://github.com/lipis/flag-icons/blob/main/flags/4x3/es.svg" width="30" height="20"> Spanish: B2.
 
-- <img src="https://github.com/lipis/flag-icons/blob/main/flags/4x3/de.svg" width="30" height="20"> German: B1.
+- <img src="https://github.com/lipis/flag-icons/blob/main/flags/4x3/de.svg" width="30" height="20"> German: B2.
 
 
 
